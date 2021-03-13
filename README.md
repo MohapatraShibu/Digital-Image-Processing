@@ -1,2 +1,2 @@
 # Digital-Image-Processing
-MATLAB Projects / Practicals
+MATLAB Projects
